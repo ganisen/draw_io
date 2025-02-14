@@ -1,14 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.12">
   <diagram name="Page-1" id="PfjowN-Dj-H6BThQf0DV">
-    <mxGraphModel dx="1434" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WpsbxGPiTf_vI8dZFogu-1" value="Pretty cool, huh?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="280" width="290" height="130" as="geometry" />
+        <mxCell id="jq_SFKdPlHXexOvVuCqm-1" value="Внутренний паспорт" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="570" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WpsbxGPiTf_vI8dZFogu-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="395" y="160" width="80" height="120" as="geometry" />
+        <mxCell id="jq_SFKdPlHXexOvVuCqm-4" value="&lt;b&gt;Правоустанавливающий документ&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="480" width="160" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="jq_SFKdPlHXexOvVuCqm-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="150" y="70" width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="jq_SFKdPlHXexOvVuCqm-8" value="&lt;a style=&quot;&quot; href=&quot;https://naturalgaz.md/en/auth/change-vendor&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 157, 255), rgb(237, 237, 237));&quot;&gt;&lt;b style=&quot;&quot;&gt;https://naturalgaz.md/en/auth/change-vendor&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="jq_SFKdPlHXexOvVuCqm-13">
+          <mxGeometry width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jq_SFKdPlHXexOvVuCqm-11" value="&lt;ol&gt;&lt;li&gt;Имя&lt;/li&gt;&lt;li&gt;- Фамилия&lt;/li&gt;&lt;li&gt;- IDNP&lt;/li&gt;&lt;li&gt;- Серия паспорта&lt;/li&gt;&lt;li&gt;- № паспорта&lt;/li&gt;&lt;li&gt;- Кем выдан&lt;/li&gt;&lt;li&gt;- Дата выдачи&lt;/li&gt;&lt;li&gt;- Email&lt;/li&gt;&lt;li&gt;- № телефона&lt;/li&gt;&lt;li&gt;- Адрес проживания&lt;/li&gt;&lt;li&gt;- Адрес(а) потребления&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="jq_SFKdPlHXexOvVuCqm-13">
+          <mxGeometry y="40" width="290" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
